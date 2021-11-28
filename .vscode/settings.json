@@ -2,6 +2,10 @@
     "files.associations": {
         "xtree": "cpp",
         "stack": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "system_error": "cpp",
+        "type_traits": "cpp",
+        "xlocnum": "cpp",
+        "xtr1common": "cpp"
     }
 }
